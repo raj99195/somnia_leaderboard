@@ -175,7 +175,7 @@ sequenceDiagram
 
 ```bash
 # Clone repository
-git clone https://github.com/raj99195/somnia-leaderboard.git
+git clone https://github.com/raj99195/somnia_leaderboard.git
 cd somnia-leaderboard
 
 # Install dependencies
